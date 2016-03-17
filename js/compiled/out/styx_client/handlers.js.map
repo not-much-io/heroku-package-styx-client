@@ -1,1 +1,0 @@
-{"version":3,"file":"\/C:\/Users\/KKoert\/Documents\/Sandbox\/styx-client\/resources\/public\/js\/compiled\/out\/styx_client\/handlers.js","sources":["handlers.cljs?rel=1458130539298"],"lineCount":10,"mappings":";AAAA;;;;AAIA,yCAAA,zCAACA,+GAEA,WAAMC,EAAEA;AAAR,AACEC","names":["re-frame.core\/register-handler","_","styx-client.db\/default-db"]}

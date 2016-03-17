@@ -1,2 +1,0 @@
-;; Analyzed by ClojureScript 1.7.170
-{:use-macros nil, :excludes #{}, :name styx-client.handlers, :imports nil, :requires {re-frame re-frame.core, re-frame.core re-frame.core, db styx-client.db, styx-client.db styx-client.db}, :uses nil, :require-macros nil, :cljs.analyzer/constants {:seen #{:initialize-db}, :order [:initialize-db]}, :doc nil}
