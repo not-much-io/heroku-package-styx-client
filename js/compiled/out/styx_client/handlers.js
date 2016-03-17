@@ -7,4 +7,4 @@ re_frame.core.register_handler.call(null,new cljs.core.Keyword(null,"initialize-
 return styx_client.db.default_db;
 }));
 
-//# sourceMappingURL=handlers.js.map?rel=1458114251659
+//# sourceMappingURL=handlers.js.map?rel=1458130539297

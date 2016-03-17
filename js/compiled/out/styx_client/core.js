@@ -21,4 +21,4 @@ return styx_client.core.mount_root.call(null);
 });
 goog.exportSymbol('styx_client.core.init', styx_client.core.init);
 
-//# sourceMappingURL=core.js.map?rel=1458126938269
+//# sourceMappingURL=core.js.map?rel=1458225092993

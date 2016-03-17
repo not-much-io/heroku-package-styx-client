@@ -211,4 +211,4 @@ var G__18270_18272__$1 = (((G__18270_18271 == null))?null:reagent.ratom.dispose_
 return reagent.impl.batching.mark_rendered.call(null,c);
 });
 
-//# sourceMappingURL=batching.js.map?rel=1458114249413
+//# sourceMappingURL=batching.js.map?rel=1458130383530
